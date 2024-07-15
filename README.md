@@ -23,9 +23,9 @@ Backend
 <p align="left"> <a href="https://skillicons.dev"> <img src="https://skillicons.dev/icons?i=java,spring,php" /> </a> </p>
 Frontend
 <p align="left"> <a href="https://skillicons.dev"> <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,angular" /> </a> </p>
-Database
-<p align="left"> <a href="https://skillicons.dev"> <img src="https://skillicons.dev/icons?i=mysql,oracle" /> </a> </p>
-Cloud Services
-<p align="left"> <a href="https://skillicons.dev"> <img src="https://skillicons.dev/icons?i=firebase" /> </a> </p>
+Other 
+<p align="left"> <a href="https://skillicons.dev"> <img src="https://skillicons.dev/icons?i=Kotlin,.net" /> </a> </p>
+Database & Cloud Services
+<p align="left"> <a href="https://skillicons.dev"> <img src="https://skillicons.dev/icons?i=mysql,firebase" /> </a> </p>
 Tools
-<p align="left"> <a href="https://skillicons.dev"> <img src="https://skillicons.dev/icons?i=github,vscode,postman,git,vscode,docker,idea,androidstudio" /> </a> </p>
+<p align="left"> <a href="https://skillicons.dev"> <img src="https://skillicons.dev/icons?i=github,vscode,postman,git,vscode,docker,netlift,idea,androidstudio" /> </a> </p>

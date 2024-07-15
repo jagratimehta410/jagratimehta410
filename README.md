@@ -1,42 +1,18 @@
-Jagrati Mehta
-Full Stack Web Developer | M.C.A. Student | Passionate about building end-to-end solutions
+<img align="left" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="21%" style="display:inline;"><img align="right" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="21%" style="display:inline;">
 
-<h1 align="center">Hi 👋, I'm Jagrati Mehta</h1> <h3 align="center">A passionate FullStack Developer from India</h3> <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"> <p align="left"> <img src="https://komarev.com/ghpvc/?username=jagratimehta&label=Profile%20views&color=0e75b6&style=flat" alt="jagratimehta" /> </p> <h3 align="left">About Me</h3>
-I'm Jagrati Mehta, a full stack developer in the making with a passion for building end-to-end solutions that delight users and drive business success. I'm a creative problem solver, a team player, and a lifelong learner, always looking for opportunities to grow and innovate.
+<h1 align="center">Hi 👋, I'm Jagrati Mehta</h1> <h3 align="center">A passionate FullStack Developer from India</h3> <p align="center">I am fascinated by how computer technology 🌐 has brought changes to our lives that could never have been predicted; witnessing the expansion of computer science allowed me to consider studying software engineering from an early age, and my enthusiasm has perpetually developed since this time. And also I love exploring new tech stack 💻 and leveraging them to build cool stuffs 🛠️</p> <p align="center"> <img src="https://komarev.com/ghpvc/?username=jagratimehta&label=Profile%20views&color=0e75b6&style=flat" alt="jagratimehta" /> </p> <div align="center"> <img src="https://techstack-generator.vercel.app/java-icon.svg" alt="icon" width="50" height="50" /> <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="50" height="50" /> <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="icon" width="50" height="50" /> <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="50" height="50" /> <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="50" height="50" /> <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="50" height="50" /> </div> <br> <div align="center"> <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="icon" width="50" height="50" /> <img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="icon" width="50" height="50" /> <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="50" height="50" /> <img src="https://techstack-generator.vercel.app/prettier-icon.svg" alt="icon" width="50" height="50" /> <img src="https://techstack-generator.vercel.app/restapi-icon.svg" alt="icon" width="50" height="50" /> <img src="https://techstack-generator.vercel.app/graphql-icon.svg" alt="icon" width="50" height="50" /> </div> <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif"> <br><br>
+🔭 I’m currently working on Project XYZ
 
-<h3 align="left">Technical Skills</h3>
-Front-end: HTML, CSS, JS, Angular, Bootstrap
-Back-end: Java, Spring Boot, MySQL
-Other: DBMS, PHP, Github
-<h3 align="left">Projects</h3>
-Jag-Portfolio: A showcase of my skills, experiences, and projects in the field of Computer Applications (MCA).
-Rent & Run: A web-based fashion rental platform that connects users with clothing items for a particular period.
-<h3 align="left">Achievements</h3>
-Secured Top 3rd and 10th ranks in the DAVV University BCA examination
-Selected in Wipro WILP Scholarships program 2023
-Anchored an international conference
-<h3 align="left">Certifications</h3>
-Full Stack Web Development: Completed "Getting Started with Full Stack Java Development" course
-DSA with Java: Completed Java Development Certification from Apna College
-Responsive Web Design: Completed a series of projects showcasing understanding of design principles, typography, and color theory
-<h3 align="left">Get in Touch</h3>
-Email: jagratimehta410@gmail.com
-Phone: +91-9929927111
-LinkedIn: https://www.linkedin.com/in/jagrati-mehta4b87b7213/
-WhatsApp: 9929927111
-Github: https://github.com/jagratimehta410
-<h3 align="left">Languages and Tools:</h3>
-HTML
-CSS
-JS
-Angular
-Bootstrap
-Java
-Spring Boot
-MySQL
-DBMS
-PHP
-Github
-Jagrati's GitHub activity graph
+🌱 I’m currently learning Devops
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jagratimehta410&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="jagratimehta410" /></p> <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jagratimehta410&show_icons=true&locale=en&theme=tokyonight" alt="jagratimehta410" /></p> <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jagratimehta410&&theme=tokyonight" alt="jagratimehta410" /></p>
+👨‍💻 All of my projects are available at Jagrati's workspace
+
+💬 Ask me about Java, Python, PHP and NodeJS
+
+📫 How to reach me jagratimehta410@gmail.com
+
+📄 Know about my experiences my experiences
+
+⚡ Fun fact I think I'm funny
+
+<br> <h3 align="left">Connect with me:</h3> <p align="left"> <a href="https://linkedin.com/in/jagrati-mehta" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jagrati-mehta" height="30" width="40" /></a> <a href="https://stackoverflow.com/users/9565088/jagrati-mehta" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/

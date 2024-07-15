@@ -24,7 +24,7 @@ Backend
 Frontend
 <p align="left"> <a href="https://skillicons.dev"> <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,angular" /> </a> </p>
 Other 
-<p align="left"> <a href="https://skillicons.dev"> <img src="https://skillicons.dev/icons?i=kotlin," /> </a> </p>
+<p align="left"> <a href="https://skillicons.dev"> <img src="https://skillicons.dev/icons?i=kotlin,asp.net" /> </a> </p>
 Database & Cloud Services
 <p align="left"> <a href="https://skillicons.dev"> <img src="https://skillicons.dev/icons?i=mysql,firebase" /> </a> </p>
 Tools

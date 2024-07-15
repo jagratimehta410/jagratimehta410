@@ -29,3 +29,12 @@ Database & Cloud Services
 <p align="left"> <a href="https://skillicons.dev"> <img src="https://skillicons.dev/icons?i=mysql,firebase" /> </a> </p>
 Tools
 <p align="left"> <a href="https://skillicons.dev"> <img src="https://skillicons.dev/icons?i=github,vscode,postman,git,vscode,docker,netlify,idea,androidstudio" /> </a> </p>
+
+<h3 align="left">GitHub Stats:</h3>
+<div align="center">
+ 
+![Supun's GitHub stats](https://github-readme-stats.vercel.app/api?username=jagratimehta410\&theme=midnight-purple\&show_icons=true\&show=reviews,prs_merged,prs_merged_percentage\&hide=contribs,issues)
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=jagratimehta410&theme=midnight-purple)](https://git.io/streak-stats)
+
+</div>

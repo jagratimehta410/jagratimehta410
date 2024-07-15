@@ -28,4 +28,4 @@ Database
 Cloud Services
 <p align="left"> <a href="https://skillicons.dev"> <img src="https://skillicons.dev/icons?i=firebase" /> </a> </p>
 Tools
-<p align="left"> <a href="https://skillicons.dev"> <img src="https://skillicons.dev/icons?i=github,vscode,postman,git,vscode,netlify,docker,idea,android" /> </a> </p>
+<p align="left"> <a href="https://skillicons.dev"> <img src="https://skillicons.dev/icons?i=github,vscode,postman,git,vscode,netlify,docker,idea,androidstudio" /> </a> </p>

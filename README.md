@@ -59,7 +59,9 @@ A robust full-stack application focusing on HTTP requests and basic authenticati
 
 * **Repository**: https://github.com/jagratimehta410/Glob-Tpf
 
-<h3 align="left">GitHub Stats:</h3>
+**itHub Stats**
+==========
+
 <div align="center">
  
 ![Supun's GitHub stats](https://github-readme-stats.vercel.app/api?username=jagratimehta410\&theme=midnight-purple\&show_icons=true\&show=reviews,prs_merged,prs_merged_percentage\&hide=contribs,issues)

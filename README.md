@@ -31,6 +31,28 @@ Database & Cloud Services
 Tools
 <p align="left"> <a href="https://skillicons.dev"> <img src="https://skillicons.dev/icons?i=github,vscode,postman,git,vscode,docker,netlify,idea,androidstudio" /> </a> </p>
 
+**Projects**
+==========
+
+### 📚 Jag Portfolio
+
+This project showcases my skills and work as a web developer. It features a clean and elegant design to highlight my projects, skills, certifications, resume, and contact information.
+
+* **Repository**: https://github.com/jagratimehta410/jag-portfolio
+* **Live Demo**: https://jagratimehta410.github.io/jag-portfolio/
+
+### 🚀 Jag-GeneratorQR 
+
+Jag-GeneratorQR allows you to create custom QR codes for various purposes, such as sharing links, contact information, or text messages.
+
+* **Repository**: https://github.com/jagratimehta410/Jag-GeneratorQR
+* **Live Demo**: https://jagratimehta410.github.io/Jag-GeneratorQR/
+
+### 🌟 Glob Techpower Foundation Website
+
+A robust full-stack application focusing on HTTP requests and basic authentication.
+
+* **Repository**: https://github.com/jagratimehta410/Glob-Tpf
 
 <h3 align="left">GitHub Stats:</h3>
 <div align="center">

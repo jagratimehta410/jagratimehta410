@@ -39,21 +39,21 @@ Tools
 🎯*Projects*
 ==========
 
-###  Jag Portfolio 📚
+### 1. Jag Portfolio 📚
 
 This project showcases my skills and work as a web developer. It features a clean and elegant design to highlight my projects, skills, certifications, resume, and contact information.
 
 * <a href="https://jagratimehta410.github.io/jag-portfolio/" target="_blank">Live Demo 🚀</a>
 * <a href="https://github.com/jagratimehta410/jag-portfolio" target="_blank">Repository 🗂️</a>
 
-###  Jag-GeneratorQR 🚀bl
+### 2. Jag-GeneratorQR 🚀
 
 Jag-GeneratorQR allows you to create custom QR codes for various purposes, such as sharing links, contact information, or text messages.
 
 * <a href="https://jagratimehta410.github.io/Jag-GeneratorQR/" target="_blank">Live Demo 🚀</a>
 * <a href="https://github.com/jagratimehta410/jag-portfolio" target="_blank">Repository 🗂️</a>
 
-###  Glob Techpower Foundation Website 🌍
+### 3. Glob Techpower Foundation Website 🌍
 
 A live website developed for Glob Techpower Foundation, a non-profit empowering women and girls in IT.
 

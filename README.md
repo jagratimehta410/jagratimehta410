@@ -16,13 +16,13 @@
 
 ⚡ Fun fact I think I'm funny
 
-📞**Connect with me**
+📞*Connect with me*
 ==========
 
 <p align="left"> <a href="https://www.linkedin.com/in/jagrati-mehta-4b87b7213/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jagrati-mehta" height="30" width="40" /></a><a href="https://github.com/jagratimehta410" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="jagrati.mehta" height="30" width="40" /></a> <a href="https://www.instagram.com/jag.__0210/?hl=en" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="jagrati_mehta" height="30" width="40" /></a> <a href="https://www.youtube.com/@jagratimehta3446" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="jagrati-mehta" height="30" width="40" /></a></p>
 
 
-🔧**Technologies and Tools**
+🔧*Technologies and Tools*
 ==========
 
 Backend
@@ -36,7 +36,7 @@ Database & Cloud Services
 Tools
 <p align="left"> <a href="https://skillicons.dev"> <img src="https://skillicons.dev/icons?i=github,vscode,postman,git,vscode,docker,netlify,idea,androidstudio" /> </a> </p>
 
-🎯**Projects**
+🎯*Projects*
 ==========
 
 ###  Jag Portfolio 📚
@@ -59,7 +59,7 @@ A robust full-stack application focusing on HTTP requests and basic authenticati
 
 * **Repository**: https://github.com/jagratimehta410/Glob-Tpf
 
-📈**GitHub Stats**
+📈*GitHub Stats*
 ==========
 
 <div align="center">

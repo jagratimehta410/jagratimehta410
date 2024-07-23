@@ -51,7 +51,7 @@ This project showcases my skills and work as a web developer. It features a clea
 Jag-GeneratorQR allows you to create custom QR codes for various purposes, such as sharing links, contact information, or text messages.
 
 * <a href="https://jagratimehta410.github.io/Jag-GeneratorQR/" target="_blank">Live Demo 🚀</a>
-* <a href="https://github.com/jagratimehta410/jag-portfolio" target="_blank">Repository 🗂️</a>
+* <a href="https://github.com/jagratimehta410/Jag-GeneratorQR" target="_blank">Repository 🗂️</a>
 
 ### 3. Glob Techpower Foundation Website 🌍
 
